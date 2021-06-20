@@ -1,0 +1,7 @@
+D:\All my Files (a.k.a. My files)\IT STEP (Software development) files\C# dot.net files\Exam\CMDemulator\CMDemulator\bin\Debug\CMDemulator.exe.config
+D:\All my Files (a.k.a. My files)\IT STEP (Software development) files\C# dot.net files\Exam\CMDemulator\CMDemulator\bin\Debug\CMDemulator.exe
+D:\All my Files (a.k.a. My files)\IT STEP (Software development) files\C# dot.net files\Exam\CMDemulator\CMDemulator\bin\Debug\CMDemulator.pdb
+D:\All my Files (a.k.a. My files)\IT STEP (Software development) files\C# dot.net files\Exam\CMDemulator\CMDemulator\obj\Debug\CMDemulator.csprojAssemblyReference.cache
+D:\All my Files (a.k.a. My files)\IT STEP (Software development) files\C# dot.net files\Exam\CMDemulator\CMDemulator\obj\Debug\CMDemulator.csproj.CoreCompileInputs.cache
+D:\All my Files (a.k.a. My files)\IT STEP (Software development) files\C# dot.net files\Exam\CMDemulator\CMDemulator\obj\Debug\CMDemulator.exe
+D:\All my Files (a.k.a. My files)\IT STEP (Software development) files\C# dot.net files\Exam\CMDemulator\CMDemulator\obj\Debug\CMDemulator.pdb
